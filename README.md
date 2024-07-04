@@ -34,5 +34,10 @@ This project serves as a foundational example for building a basic login system 
 ## Live Demo
 
 You can view the live demo of this project on GitHub Pages:
-
 [Live Demo](https://hrishikeshdevdikar19.github.io/Simple-Login-Page/)
+
+## For successful login use the following credentials
+**email**: "user@example.com"
+**password**: "Password@123" 
+
+
