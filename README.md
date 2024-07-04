@@ -31,4 +31,8 @@ This project demonstrates a simple login system implemented using HTML, CSS, and
 
 This project serves as a foundational example for building a basic login system using front-end technologies. It covers essential concepts such as form validation, session handling, and responsive design. For production deployment, integrating backend services and enhancing security measures would be crucial to ensure robustness and protection of user data.
 
+## Live Demo
 
+You can view the live demo of this project on GitHub Pages:
+
+[Live Demo](https://hrishikeshdevdikar19.github.io/CRUD-Table/)
